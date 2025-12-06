@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Do NOT commit credentials
+*.json
+*.pem
+*.key
+/tmp/service_account_key.json
